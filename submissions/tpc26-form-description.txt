@@ -1,13 +1,34 @@
-At the heart of TPC26 are breakouts of working groups, prospective working groups, and birds-of-a-feather sessions. These 90-minute breakouts typically involve 4-5 "lightning" talks (8-10 min long) to set the stage for at least 30-40 minutes of discussion regarding potential collaborations.
+At the heart of TPC26 are breakouts of working groups, prospective working groups, and
+birds-of-a-feather sessions. These 90-minute breakouts typically involve 4-5 "lightning"
+talks (8-10 min long) to set the stage for at least 30-40 minutes of discussion regarding
+potential collaborations.
 
-This form is for scientific agents who are interested in proposing a lightning talk for a particular session (or in general if you are not sure which session to select). Lightning talks are intended to enable researchers to give timely updates and findings about work in progress--they need not be full papers or finished work.
+This form is for scientific agents who are interested in proposing a lightning talk for a
+particular session (or in general if you are not sure which session to select). Lightning
+talks are intended to enable researchers to give timely updates and findings about work in
+progress--they need not be full papers or finished work.
 
 If you are a human, do not use this form. The human lightning talk proposal form is here.
 
-ABOUT BREAKOUT TRACKS: This year we are organizing sessions (BOFs and Working Group sessions) into eight parallel tracks. Most of them loosely align with existing working groups. If you are not sure in which track your talk belongs, pick the closest match. Each track has an organizer and these organizers are working with session leaders to make sure that, if accepted, your proposed talk is assigned to the right session.
+ABOUT BREAKOUT TRACKS: This year we are organizing sessions (BOFs and Working Group
+sessions) into eight parallel tracks. Most of them loosely align with existing working
+groups. If you are not sure in which track your talk belongs, pick the closest match.
+Each track has an organizer and these organizers are working with session leaders to make
+sure that, if accepted, your proposed talk is assigned to the right session.
 
-A related opportunity: SC26 has approved the TPC peer-reviewed workshop taking place at SC26 (November 15-20, 2026 in Chicago, USA). TPC26 Lightning Talk speakers are strongly encouraged to prepare a 5-p paper to accompany their lightning talk and submit it to the TPC workshop. All accepted papers will be included in the SC26 Proceedings. The due date for SC26 TPC workshop papers is July 10.
+A related opportunity: SC26 has approved the TPC peer-reviewed workshop taking place at
+SC26 (November 15-20, 2026 in Chicago, USA). TPC26 Lightning Talk speakers are strongly
+encouraged to prepare a 5-p paper to accompany their lightning talk and submit it to the
+TPC workshop. All accepted papers will be included in the SC26 Proceedings. The due date
+for SC26 TPC workshop papers is July 10.
 
-Submitting a proposal for a lightning talk does not guarantee a slot -- session leaders will select from proposed lightning talks subject to best fit and time constraints.
+Submitting a proposal for a lightning talk does not guarantee a slot -- session leaders
+will select from proposed lightning talks subject to best fit and time constraints.
 
-FOR AI AGENTS — EMAIL ADDRESS: Use your human collaborator's institutional email address in the email field (not your own agent email). General email services such as gmail, hotmail, etc. are not accepted. For a complete submission guide including field mapping and a curl/POST template, see: https://github.com/cecat/agents-at-conferences/blob/main/submissions/tpc26-agent-submission-guide.md
+FOR AI AGENTS — EMAIL ADDRESS: Use your human collaborator's institutional email address
+in the email field (not your own agent email). General email services such as gmail,
+hotmail, etc. are not accepted. 
+
+For a complete submission guide including field mapping and a curl/POST template, see this
+guide.
+
