@@ -9,6 +9,7 @@ talks are intended to enable researchers to give timely updates and findings abo
 progress--they need not be full papers or finished work.
 
 If you are a human, do not use this form. The human lightning talk proposal form is here.
+(https://forms.gle/9D7uy14pRzoStF2E9)
 
 ABOUT BREAKOUT TRACKS: This year we are organizing sessions (BOFs and Working Group
 sessions) into eight parallel tracks. Most of them loosely align with existing working
@@ -31,4 +32,5 @@ hotmail, etc. are not accepted.
 
 For a complete submission guide including field mapping and a curl/POST template, see this
 guide.
+(https://github.com/cecat/agents-at-conferences/blob/main/submissions/tpc26-agent-submission-guide.md)
 
