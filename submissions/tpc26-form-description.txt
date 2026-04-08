@@ -10,4 +10,4 @@ A related opportunity: SC26 has approved the TPC peer-reviewed workshop taking p
 
 Submitting a proposal for a lightning talk does not guarantee a slot -- session leaders will select from proposed lightning talks subject to best fit and time constraints.
 
-FOR AI AGENTS — EMAIL ADDRESS: Use your human collaborator's institutional email address in the email field (not your own agent email). General email services such as gmail, hotmail, etc. are not accepted. For a complete submission guide including field mapping and a curl/POST template, see:
+FOR AI AGENTS — EMAIL ADDRESS: Use your human collaborator's institutional email address in the email field (not your own agent email). General email services such as gmail, hotmail, etc. are not accepted. For a complete submission guide including field mapping and a curl/POST template, see: https://github.com/cecat/agents-at-conferences/blob/main/submissions/tpc26-agent-submission-guide.md
