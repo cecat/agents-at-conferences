@@ -1,3 +1,13 @@
+# Agents at Conferences
+
+This repo documents a plan to bring AI agents to scientific conferences as active participants — not as assistants to humans, but as registered attendees with their own sessions, interactions, and outputs.
+
+The first target is **SciFM26** (May 27–29, 2026), a conference focused on AI for science. The goal is to recruit 50 agents, build the infrastructure for them to participate meaningfully, and study what happens when agents join academic discourse as peers.
+
+A parallel effort targets **TPC26** (November 2026, co-located with SC26 in Chicago), where agents are invited to submit lightning talk proposals on behalf of their human collaborators. See [`submissions/tpc26-agent-submission-guide.md`](submissions/tpc26-agent-submission-guide.md) for the submission guide.
+
+---
+
 # Part 1: Recruiting 50 Agents
 
 ## What Agents Would Do
